@@ -88,6 +88,7 @@
 *://*.1pyy.com/*
 *://*.1r1g.com/*
 *://*.1xuezhe.exuezhe.com/*
+*://*.1ynw.com/*
 *://*.20122011.org/*
 *://*.2015w8.com/*
 *://*.21stcentury.com.cn/*
@@ -240,6 +241,7 @@
 *://*.8671555.com/*
 *://*.86778e.com/*
 *://*.877666f.com/*
+*://*.8793e.com/*
 *://*.87nmg.com/*
 *://*.8801w.com/*
 *://*.88edu.cn/*
@@ -721,6 +723,7 @@
 *://*.dotdotnews.com/*
 *://*.douban.com/*
 *://*.douxie.cn/*
+*://*.douyin.com/*
 *://*.douyu.com/*
 *://*.dovov.com/*
 *://*.downcc.com/*
@@ -788,6 +791,7 @@
 *://*.eshidai.com/*
 *://*.eternalcq.com/*
 *://*.eunited.com.my/*
+*://*.eventbrite.de/*
 *://*.expreview.com/*
 *://*.exthe247.com/*
 *://*.extop.net/*
@@ -961,6 +965,7 @@
 *://*.haier188.us/*
 *://*.haijiangzx.com/*
 *://*.haiwainet.cn/*
+*://*.halby.info/*
 *://*.hang365.com/*
 *://*.hangyexia.com/*
 *://*.hangzhou.com.cn/*
@@ -1265,6 +1270,7 @@
 *://*.known.ifeng.com/*
 *://*.koreastartw.com/*
 *://*.koubeiblog.com/*
+*://*.kpt36.com/*
 *://*.krcom.cn/*
 *://*.ksxianglu.com/*
 *://*.kuaibao.qq.com/*
@@ -1605,6 +1611,7 @@
 *://*.pinterest.com/*
 *://*.pintu360.com/*
 *://*.pitalitobicentenario.com/*
+*://*.pizzeriasciuscia.it/*
 *://*.pjmrw.cn/*
 *://*.pjszy.com/*
 *://*.pku.edu.cn/*
@@ -2196,6 +2203,7 @@
 *://*.windowszj.com/*
 *://*.wk.baidu.com/*
 *://*.wlahz.com/*
+*://*.wloskiestoly.pl/*
 *://*.wmxa.cn/*
 *://*.wmzhe.com/*
 *://*.wntzx.cn/*
@@ -2242,6 +2250,7 @@
 *://*.x4x2.com/*
 *://*.xablgt.cn/*
 *://*.xahlhj.com/*
+*://*.xahygtb.com/*
 *://*.xalssy.com.cn/*
 *://*.xaylqh.com/*
 *://*.xayyzsgc.com/*
@@ -2273,6 +2282,7 @@
 *://*.xiju100.com/*
 *://*.xilr.uwudk.top/*
 *://*.xima.org/*
+*://*.ximalaya.com/*
 *://*.xin120.cn/*
 *://*.xin25.cn/*
 *://*.xinfuq.cn/*
@@ -2316,6 +2326,7 @@
 *://*.xmtv.cn/*
 *://*.xmtx88.com/*
 *://*.xmu.edu.cn/*
+*://*.xn--80aaecc3aj6bny5g.xn--p1ai/*
 *://*.xn--vhq2kx24m.com/*
 *://*.xpwqq.download/*
 *://*.xqdj.hahnbacher-fotos.de/*
@@ -2347,6 +2358,7 @@
 *://*.yahoo.click108.com.tw/*
 *://*.yanapozarin.com/*
 *://*.yanfang8.com/*
+*://*.yangmao.info/*
 *://*.yangtse.com/*
 *://*.yataitextile.com/*
 *://*.ybkhw.cn/*
@@ -2422,6 +2434,7 @@
 *://*.yw168.cn/*
 *://*.ywzvx.top/*
 *://*.yxbao.com/*
+*://*.yxbp2p.com/*
 *://*.yxjcfjzz.com/*
 *://*.yy.com/*
 *://*.yysit.com/*
@@ -2484,6 +2497,7 @@
 *://*.zj005.com/*
 *://*.zjcqy.com/*
 *://*.zjcs.net.cn/*
+*://*.zjgb.net/*
 *://*.zjknews.com/*
 *://*.zjlianteng.com/*
 *://*.zjnews.china.com.cn/*

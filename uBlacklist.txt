@@ -1,9 +1,3 @@
-*://*.*/?s=*
-*://*.*/cha.php?s=*
-*://*.*/list.php?s=*
-*://*.*/so.php
-*://*.*/so.php?s=*
-*://*.*/so/*
 *://*.005i.com/*
 *://*.01-123.com/*
 *://*.01-800.cn/*
@@ -114,7 +108,6 @@
 *://*.3237com.com/*
 *://*.32xyj.pw/*
 *://*.33jj.com/*
-*://*.360.*/*
 *://*.360.cn/*
 *://*.360.com.cn/*
 *://*.360.com/*
@@ -127,6 +120,7 @@
 *://*.365seal.com/*
 *://*.365vsh.com/*
 *://*.3698v8e.biz/*
+*://*.36kr.com/*
 *://*.37meinv.com/*
 *://*.37uu.cn/*
 *://*.3888kj.net/*
@@ -358,8 +352,6 @@
 *://*.baba100.com/*
 *://*.backchina.com/*
 *://*.baida.gq/*
-*://*.baidu.*/*
-*://*.baidu.com.*/*
 *://*.baidu.com.cn/*
 *://*.baidu.com.se/*
 *://*.baidu.com/*
@@ -563,6 +555,7 @@
 *://*.chinalaw.org.cn/*
 *://*.chinalivedoor.com/*
 *://*.chinamobileltd.com/*
+*://*.chinanews.com.cn/*
 *://*.chinanews.com/*
 *://*.chinanews.org/*
 *://*.chinapaper.net/*
@@ -604,6 +597,7 @@
 *://*.cn.chinadaily.com.cn/*
 *://*.cn.dreamstime.com/*
 *://*.cn.linkedin.com/*
+*://*.cn3x.com.cn/*
 *://*.cnbackpack.com/*
 *://*.cncnews.cn/*
 *://*.cngold.org/*
@@ -804,7 +798,7 @@
 *://*.eooele.com/*
 *://*.eozy.vip-erfolgscoach.de/*
 *://*.epbiao.com/*
-*://*.epochtimes.*
+*://*.epochtimes.com/*
 *://*.eqisou.net/*
 *://*.eqxiu.com/*
 *://*.erdie826.com/*
@@ -1028,6 +1022,7 @@
 *://*.hdnkm.com/*
 *://*.health.people.com.cn/*
 *://*.health.sina.com.cn/*
+*://*.heb.chinanews.com.cn/*
 *://*.hebdx.com/*
 *://*.hedo188.com/*
 *://*.heishuye.com/*
@@ -1439,6 +1434,7 @@
 *://*.meifa.izhufu.net/*
 *://*.meirongbala.com/*
 *://*.meixiaqu.com/*
+*://*.mengchenghui.com/*
 *://*.mensconsignment.com/*
 *://*.meyet.net/*
 *://*.mgcdc.cn/*
@@ -1820,7 +1816,6 @@
 *://*.scol.com.cn/*
 *://*.scych.cn/*
 *://*.sd.iqilu.com/*
-*://*.sdbeta_com.sx11xuan561.review/*
 *://*.sdcnjt.com/*
 *://*.sdgwy.org/*
 *://*.sdlhw.com.cn/*
@@ -1898,6 +1893,7 @@
 *://*.skytech.cn/*
 *://*.sl800.cn/*
 *://*.slavadesigns.com/*
+*://*.slideshare.net/*
 *://*.slt.gd.gov.cn/*
 *://*.smallbizdiary.com/*
 *://*.smhc517.com/*
@@ -2034,6 +2030,7 @@
 *://*.tcgame.com.cn/*
 *://*.tduaz.top/*
 *://*.te5.com/*
+*://*.techweb.com.cn/*
 *://*.techwrestler.com/*
 *://*.teentube18.org/*
 *://*.telanganatopnews.com/*
@@ -2524,6 +2521,7 @@
 *://*.yznews.com.cn/*
 *://*.z97a.com/*
 *://*.zanhuangwang.com/*
+*://*.zaobao.com.sg/*
 *://*.zaojv.com/*
 *://*.zbj.com/*
 *://*.zbrushcn.com/*
@@ -2614,3 +2612,5 @@
 *://*.zzpsa.com/*
 *://*.zzyyo.com/*
 *://50.116.0.33/*
+*://blog.sciencenet.cn/*
+*://pdf.dfcfw.com/*
